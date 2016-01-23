@@ -1,4 +1,4 @@
 # hello-world
 primeiros códigos....
 
-bla bla
+um pouco sobre mim....bla bla!
